@@ -2,7 +2,7 @@ import "./App.css";
 
 function Button() {
   return (
-    <button className="add-to-cart-button">Add to Cart</button>
+    <button className="add-to-cart-button-secondary">Add to Cart</button>
   )
 }
 
